@@ -4,7 +4,7 @@ This project is a machine learning task using the adult dataset. The goal is to 
 The project involves the following steps:
 
 ## Data Collection: 
-Loading the adult dataset from the UCI Machine Learning Repository.
+Loading the adult dataset from the UCI Machine Learning Repository. https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fml%2Fdatasets%2Fadult
 ## Data Cleaning: 
 Handling missing values and inconsistencies in the data.
 ## Feature Engineering: 
